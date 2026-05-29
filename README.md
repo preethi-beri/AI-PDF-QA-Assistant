@@ -128,7 +128,7 @@ Response Displayed to User
 
 ## 🏠 Home Page
 
-![Home Page](screenshots/home-page.png)
+![Home Page](D:\AI-PDF-QA-Assisstant\screenshots\home-page.png)
 
 ---
 
