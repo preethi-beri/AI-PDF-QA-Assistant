@@ -128,21 +128,15 @@ Response Displayed to User
 
 ## 🏠 Home Page
 
-![Home Page](D:\AI-PDF-QA-Assisstant\screenshots\home-page.png)
-
----
+![Home Page](screenshots/home-page.png)
 
 ## 📄 PDF Upload
 
 ![PDF Upload](screenshots/pdf-upload.png)
 
----
-
 ## ❓ User Question
 
 ![Question](screenshots/user-question.png)
-
----
 
 ## 🤖 Generated Response
 
